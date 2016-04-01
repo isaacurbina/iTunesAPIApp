@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">iTunesAPIApp</string>
+    <string name="API_URL">https://itunes.apple.com/</string>
+    <string name="et_search_hint">Type your search here</string>
+    <string name="cv_song_hint">Song Title</string>
+    <string name="cv_artist_hint">Artist</string>
+    <string name="cv_genre_hint">Genre</string>
+    <string name="cv_price_hint">$ X.XX USD</string>
+    <string name="cv_collection_hint">Collection Name</string>
+    <string name="btn_search_text">Go</string>
+</resources>
